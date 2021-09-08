@@ -1,5 +1,5 @@
 {
-  "name": "Hashzi-1",
+  "name": "Einstein",
   "version": "1.3.2",
   "description": "WhatsAsena project - a Whatsapp userbot helping to improve your Whatsapp experience.",
   "main": "./Hashzi-1/bot.js",
@@ -17,11 +17,11 @@
     "asena",
     "WhatsAsena"
   ],
-  "author": "AsenaDev / Yusuf Usta",
-  "developer": "AsenaDev / @phaticusthiccy",
+  "author": "Einstein",
+  "developer": "Einstein",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated/issues"
+    "url": ""
   },
   "homepage": "https://github.com/xneon2/Hashzi-1#readme",
   "dependencies": {
